@@ -77,7 +77,7 @@
             padding: 10px;
             border: 1px solid #cccccc;
             border-radius: 5px;
-            font-size: 14px;
+            font-size: 15px;
         }
         h2{
             text-align: center;
@@ -86,21 +86,21 @@
         }
         .feedback label{
             width: 100%;
-            padding: 10px;
+            padding: 5px;
             border: 1px solid #cccccc;
             border-radius: 5px;
             font-size: 14px;
         }
         .feedback textarea{
             width: 100%;
-            padding: 10px;
+            padding: 5px;
             border: 1px solid #cccccc;
             border-radius: 5px;
             font-size: 14px;
         }
         .feedback textarea{
             resize: none;
-            height: 60px;
+            height: 80px;
         }
     </style>
 </head>
